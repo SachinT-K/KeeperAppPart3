@@ -43,4 +43,4 @@ function App() {
 
 export default App;
 
-//Result for 2(a),2(b) and 2(c) steps
+
